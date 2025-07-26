@@ -1,4 +1,50 @@
 {
-    "title": "Application form for grant of LTC advance",
-    "outline": []
+  "title": "Microsoft Word - LTC_CLAIM_FORMS .doc",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Service",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PAY + SI + NPA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Single",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S.No",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Age",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Relationship",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "12. Amount of advance required.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Rs.",
+      "page": 1
+    }
+  ]
 }

@@ -1,30 +1,95 @@
 {
-    "title": "Parsippany -Troy Hills STEM Pathways",
-    "outline": [
-        {
-            "level": "H1",
-            "text": "Parsippany -Troy Hills STEM Pathways",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "PATHWAY OPTIONS",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "REGULAR PATHWAY",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "DISTINCTION PATHWAY",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "Goals:",
-            "page": 0
-        }
-    ]
+  "title": "Parsippany -Troy Hills STEM Pathways",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Goals:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Inspire keen interest in mathematics, science, engineering, and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Expose students to potential career opportunities in the field.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Encourage students to pursue higher education and major in",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Promote interactions with STEM professionals to learn about",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Support field experiences connected to the world outside of",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Signal to employers, universities, training programs, and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "• Cultivate transferable work habits such as perseverance, goal",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PATHWAY OPTIONS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "REGULAR PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "DISTINCTION PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Math - At least one math",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Math",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Science- At least one",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Science",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of STEM-designated electives",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "- One must be a Computer",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Science/Technology Class",
+      "page": 1
+    }
+  ]
 }
